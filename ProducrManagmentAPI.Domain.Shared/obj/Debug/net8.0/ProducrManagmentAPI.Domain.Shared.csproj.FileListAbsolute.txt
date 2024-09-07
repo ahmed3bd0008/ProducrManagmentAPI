@@ -1,0 +1,13 @@
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\bin\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.deps.json
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\bin\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.dll
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\bin\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.pdb
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.csproj.AssemblyReference.cache
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.EmbeddedFilesManifest.cache
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.AssemblyInfoInputs.cache
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.AssemblyInfo.cs
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.csproj.CoreCompileInputs.cache
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.dll
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\refint\ProducrManagmentAPI.Domain.Shared.dll
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ProducrManagmentAPI.Domain.Shared.pdb
+E:\test\aBp\ProducrManagmentAPI\aspnet-core\src\ProducrManagmentAPI.Domain.Shared\obj\Debug\net8.0\ref\ProducrManagmentAPI.Domain.Shared.dll

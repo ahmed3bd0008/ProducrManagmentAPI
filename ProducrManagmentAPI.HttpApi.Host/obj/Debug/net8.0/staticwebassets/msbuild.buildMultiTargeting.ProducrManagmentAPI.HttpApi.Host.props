@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProducrManagmentAPI.HttpApi.Host.props" />
+</Project>
